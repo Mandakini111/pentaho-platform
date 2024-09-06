@@ -63,8 +63,8 @@
           <groupId>javax.servlet</groupId>
         </exclusion>
         <exclusion>
-          <artifactId>javax.servlet-api</artifactId>
-          <groupId>javax.servlet</groupId>
+          <groupId>jakarta.servlet</groupId>
+          <artifactId>jakarta.servlet-api</artifactId>
         </exclusion>
         <exclusion>
           <artifactId>jug-lgpl</artifactId>
